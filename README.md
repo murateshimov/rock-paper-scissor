@@ -4,7 +4,8 @@
 
 This is a simple Rock Paper Scissors game built using C# and Microsoft Forms. The game allows the player to compete against a bot in a set number of rounds, with a timer for each round.
 
-## Getting Started
+## Demo video of game
+
 
 ### Prerequisites
 
