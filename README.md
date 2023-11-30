@@ -6,7 +6,9 @@ This is a simple Rock Paper Scissors game built using C# and Microsoft Forms. Th
 
 ## Demo video of game
 
-https://github.com/murateshimov/rock-paper-scissor/assets/rock-paper-scissor
+
+
+https://github.com/murateshimov/rock-paper-scissor/assets/57397667/686e5dda-7100-44eb-aee3-26fa35520201
 
 
 ### Prerequisites
