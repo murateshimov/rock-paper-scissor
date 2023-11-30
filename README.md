@@ -17,5 +17,5 @@ This is a simple Rock Paper Scissors game built using C# and Microsoft Forms. Th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/murateshimov/rock-paper-scissors.git
 
