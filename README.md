@@ -8,7 +8,10 @@ This is a simple Rock Paper Scissors game built using C# and Microsoft Forms. Th
 
 
 
-https://github.com/murateshimov/rock-paper-scissor/assets/57397667/c9c65afd-246d-45d7-abe1-67c7f65060b0
+
+https://github.com/murateshimov/rock-paper-scissor/assets/57397667/783ba92a-34c8-4639-bf87-89d0ad0f0ccc
+
+
 
 
 
