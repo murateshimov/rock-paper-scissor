@@ -7,40 +7,7 @@ This is a simple Rock Paper Scissors game built using C# and Microsoft Forms. Th
 ## Demo video of game
 
 
-
-
 https://github.com/murateshimov/rock-paper-scissor/assets/57397667/783ba92a-34c8-4639-bf87-89d0ad0f0ccc
-
-
-
-
-
-## Gameplay
-
-- The game consists of 3 rounds, and each round has a timer.
-- The player chooses between Rock, Paper, or Scissors using the corresponding buttons.
-- The bot randomly selects its choice.
-- The winner of each round is determined based on the classic Rock Paper Scissors rules.
-- The game continues until all rounds are completed.
-
-## Features
-
-- Simple user interface using Microsoft Forms.
-- Visual representation of player and bot choices.
-- Round timer to add an element of time pressure.
-- Game over screen displaying the winner.
-
-### Prerequisites
-
-- Microsoft Visual Studio
-- .NET Framework
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/murateshimov/rock-paper-scissors.git 
 
 
 <br>
@@ -64,7 +31,7 @@ The purpose of the project is to create a simple Rock Paper Scissors game using 
 - Each round shall have a timer to limit the time for player decision-making.
 
 ### 2.2 Player Interaction
-- The player shall make a choice between Rock, Paper, or Scissors using corresponding buttons in the user interface.
+- The player shall choose between Rock, Paper, or Scissors using corresponding buttons in the user interface.
 
 ### 2.3 Bot Decision
 - The bot shall randomly select its choice for each round.
@@ -100,7 +67,7 @@ The purpose of the project is to create a simple Rock Paper Scissors game using 
 - The game shall be compatible with Microsoft Visual Studio.
 - The application shall run on systems with the .NET Framework installed.
 
-## 6. Documentation
+## 5. Documentation
 
 ### 5.1 User Manual
 - Create a user manual outlining how to play the game.
@@ -108,4 +75,9 @@ The purpose of the project is to create a simple Rock Paper Scissors game using 
 ### 5.2 Technical Documentation
 - Develop technical documentation covering code structure, algorithms, and design decisions.
 
+### Installation
 
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/murateshimov/rock-paper-scissors.git 
