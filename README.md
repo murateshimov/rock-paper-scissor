@@ -75,9 +75,9 @@ The purpose of the project is to create a simple Rock Paper Scissors game using 
 ### 5.2 Technical Documentation
 - Develop technical documentation covering code structure, algorithms, and design decisions.
 
-### Installation
+## 6. Installation
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/murateshimov/rock-paper-scissors.git 
